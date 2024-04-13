@@ -5,8 +5,6 @@ import styles from "./navbar.module.css"
 
 const Navbar = async () => {
 
-  
-
   return (
     <div className={styles.container}>
       <Link href="/" className={styles.logo}>Logo</Link>

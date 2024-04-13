@@ -24,7 +24,7 @@ const links = [
   },
 ];
 
-const Links = ({session}) => {
+const Links = ({ session }) => {
   const [open, setOpen] = useState(false);
 
 
